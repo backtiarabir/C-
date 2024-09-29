@@ -1,2 +1,2 @@
-# C-
+# C++ programing
 About C++ work
